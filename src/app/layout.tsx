@@ -27,6 +27,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <h2>the layout.tsx file is like a global thing kinda like dashboard</h2>
         {children}
       </body>
     </html>
