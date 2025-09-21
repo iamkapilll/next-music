@@ -30,8 +30,14 @@ export default function RootLayout({
       >
         {/* <h2>TThe layout.tsx file is like a global thing kinda like dashboard</h2> */}
         <Navbar />
-        {children}
+        {children} 
       </body>
     </html>
   );
 }
+
+//note:
+
+{/* <Navbar />
+ {children} // this is where all the page.tsx files will be rendered
+ <Footer /> */}
