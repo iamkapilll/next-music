@@ -27,7 +27,7 @@ function page() {
               </CardItem>
 
               <CardItem
-                as="p"
+                as="p"x
                 translateZ="60"
                 className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
               >
