@@ -14,7 +14,7 @@ function Footer() {
         </div>
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">Quick Links</h2>
-          <ul>
+          <ul>  
             <li>
               <a
                 href="#"
