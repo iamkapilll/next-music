@@ -1,4 +1,4 @@
-//5
+//src/components/WhyChooseUs.tsx
 "use client";
 import React from "react";
 import { StickyScroll } from "./ui/sticky-scroll-reveal";
@@ -45,3 +45,62 @@ function WhyChooseUs() {
 }
 
 export default WhyChooseUs
+
+
+
+
+
+
+
+
+
+
+
+
+// //src/components/WhyChooseUs.tsx
+// "use client";
+// import React from "react";
+// import { StickyScroll } from "./ui/sticky-scroll-reveal";
+
+// const aboutMeContent = [
+//   {
+//     title: "Hi, I'm Kapil 👋",
+//     description:
+//       "I’m a Computer Science student passionate about building modern web applications. I enjoy turning ideas into real, interactive products using code.",
+//   },
+//   {
+//     title: "My Development Journey 🚀",
+//     description:
+//       "I started with HTML, CSS, and JavaScript, and gradually moved into full-stack development. Right now, I’m focused on mastering the MERN stack and building real-world projects.",
+//   },
+//   {
+//     title: "What I’m Learning 💻",
+//     description:
+//       "Currently improving my skills in React, Node.js, Express, and MongoDB. I also work on authentication, APIs, and scalable backend systems.",
+//   },
+//   {
+//     title: "My Goal 🎯",
+//     description:
+//       "My goal is to become a strong full-stack developer and eventually move into blockchain development to build decentralized applications (dApps).",
+//   },
+//   {
+//     title: "What I Love Building ⚡",
+//     description:
+//       "I enjoy building full-stack apps, portfolio projects, and creative UI interfaces with smooth animations and clean design.",
+//   },
+//   {
+//     title: "Beyond Coding 🌱",
+//     description:
+//       "I believe in continuous learning, consistency, and improving one step at a time. I also like exploring new technologies and design systems.",
+//   },
+// ];
+
+// function WhyChooseUs() {
+//   return (
+//     <div>
+//         <StickyScroll content={aboutMeContent} />
+//     </div>
+//   )
+// }
+
+// export default WhyChooseUs

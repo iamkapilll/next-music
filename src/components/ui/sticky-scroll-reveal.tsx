@@ -1,4 +1,4 @@
-//5
+//src/components/ui/sticky-scroll-reveal.tsx
 "use client";
 import React, { useEffect, useRef, useState } from "react";
 import { useMotionValueEvent, useScroll } from "motion/react";
